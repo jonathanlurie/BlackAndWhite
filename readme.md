@@ -1,5 +1,5 @@
 ## Black & White
-First, [DEMO](http://stuff2.jonathanlurie.fr/blackAndWhite).
+First, [DEMO](http://me.jonathanlurie.fr/BlackAndWhite/).
 
 **Black & White** is a single page project to display a fullscreen white page or a fullscreen black page, then, after a few seconds, even your mouse pointer will be masked, until you move again.
 
